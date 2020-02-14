@@ -19,8 +19,8 @@ Tulis fungsi yang mengembalikan hasil seperti di atas dengan ketentuan:
     <span>
       <img src="./output/output.PNG" />
     </span>
-    <span>
 &nbsp;&nbsp;
+    <span>
 	Via playcode.io
       <img src="./output/playcode.PNG" />
     </span>	
