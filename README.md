@@ -17,13 +17,21 @@ Tulis fungsi yang mengembalikan hasil seperti di atas dengan ketentuan:
 ## Output
   <p align="center">
     <span>
+	Via command prompt
+    </span>	
+  </p>
+  <p align="center">
+    <span>
       <img src="./output/output.PNG" />
     </span>
-&nbsp;&nbsp;
+  </p>
+  <p align="center">
     <span>
 	Via playcode.io
-    </span>
-<span>
+    </span>	
+  </p>
+   <p align="center">
+    <span>
       <img src="./output/playcode.PNG" />
     </span>	
   </p>
