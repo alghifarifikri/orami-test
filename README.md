@@ -22,6 +22,8 @@ Tulis fungsi yang mengembalikan hasil seperti di atas dengan ketentuan:
 &nbsp;&nbsp;
     <span>
 	Via playcode.io
+    </span>
+<span>
       <img src="./output/playcode.PNG" />
     </span>	
   </p>
