@@ -20,6 +20,7 @@ Tulis fungsi yang mengembalikan hasil seperti di atas dengan ketentuan:
       <img src="./output/output.PNG" />
     </span>
     <span>
+&nbsp;&nbsp;
 	Via playcode.io
       <img src="./output/playcode.PNG" />
     </span>	
